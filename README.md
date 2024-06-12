@@ -1,7 +1,5 @@
 ## Приветствую в моем GitHub профиле!
 
-🔗 Ссылка на мой [Codeberg](https://codeberg.org/Ktoto) для просмотра моих проектов.
-
 # 💫 Обо мне:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=339F95&width=435&lines=My+name%60s+Ktoto;I%60m+a+Developer)](https://git.io/typing-svg)
 
@@ -14,3 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KtotoNekt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KtotoNekt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+## Ссылки:
+🔗 Ссылка на мой [Codeberg](https://codeberg.org/Ktoto) для просмотра моих проектов.
+🔗 Мой [Discord](https://discord.com/users/1159491077695348846) для связи со мной.
